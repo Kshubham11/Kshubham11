@@ -8,7 +8,7 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects.**
 
-- 💬 Ask me about **Data Structure Algorithm, HTML , CSS, JavaScript, jQuery.**
+- 💬 Ask me about **Data Structure and Algorithm, HTML , CSS, JavaScript, jQuery.**
 
 - 📧 How to reach me? **Connect to me via Email [Shubham](mailto:shubhamsbhm@gmail.com)**
 
