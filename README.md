@@ -1,20 +1,32 @@
 <h1 align="center">Hi 👋🏻, I'm Shubham Kumar</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
+
+
+- 🔭 I’m currently a student at **IIIT Bhagalpur.**
+
+- 🌱 I’m currently learning **Python-Django for Backend Development.**
+
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects.**
+
+- 💬 Ask me about **Data Structure Algorithm, HTML , CSS, JavaScript, jQuery.**
+
+- 📧 How to reach me? **Connect to me via Email [Shubham](mailto:shubhamsbhm@gmail.com)**
+
+- ⚡ Fun fact: **I love to listen songs and reading novels.**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshubham11&label=Profile%20views&color=0e75b6&style=flat" alt="kshubham11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshubham11" alt="kshubham11" /></a> </p>
 
-- 🔭 I’m currently a student at **IIIT Bhagalpur**
 
-- 🌱 I’m currently learning **Python-Django for Backend Development.**
 
-- Reach me at: **shubhamsbhm@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- - Reach me at: **shubhamsbhm@gmail.com** -->
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shubham-kumar-222044175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-kumar-222044175" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shubhamsbhm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shubhamsbhm/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/sparrow11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/sparrow11" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/Shubhamk11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Shubhamk11" height="30" width="40" /> </a>
+<a href="https://www.facebook.com/shubhamsbhm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="shubhamsbhm" height="30" width="40" /> </a>
+<a href="https://www.instagram.com/k_sbhm/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="k_sbhm" height="30" width="40" /> </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
